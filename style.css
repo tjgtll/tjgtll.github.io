@@ -1,9 +1,19 @@
+
+
 .back, .front, .logo{
     
     width: 75px;
 }
+
+p{
+  color:#222;
+}
+h1,h2,h3,h6{
+  color:#222;
+}
+
 header {
-    background-color: #1089ce;
+    background-color: #4b4e6d;
     
 }
 .carousel-item{
@@ -14,27 +24,27 @@ div {
     text-justify: inter-word;
   }
 .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
-    color:black;
-    background-color: #f5d110;
+    color:#222;
+    background-color: #84dcc6;
 }
 .imageBackColor{
-    background-color: #f5d110;
+    background-color: #84dcc6;
 }
 .textGrayBackColor{
     background-color: #dbdbe1;
     
 }
 .textBlueBackColor{
-    background-color: #1089ce;
+    background-color: #4b4e6d;
 }
 
 .textRedBackColor{
-    background-color: #df212c;
+    background-color: #95a3b3;
     display: block;
     
 }
 .textGrayBackColor{
-    background-color: #dbdbe1;
+    background-color: #95a3b3;
     
 }
 a{ 
@@ -132,8 +142,8 @@ img.front {
      }
    
    .large-above-menu.style-2 .contact-info li.line {
-       background-color: #bdd83d;
-       border-color: #bdd83d;
+       background-color: #84dcc6;
+       border-color: #84dcc6;
        width: 0px;
        padding-right: 0px;
        top: -40px;
@@ -160,8 +170,8 @@ img.front {
      }
      
      .large-above-menu.style-2 .contact-info li.phone {
-       background-color: #df212c;
-       border-color: #df212c;
+       background-color: #95a3b3;
+       border-color: #95a3b3;
        width: 235px;
        color: #2f54a4;
        padding-top: 0px;
@@ -345,3 +355,4 @@ img.front {
     width: 100%;     
     height: 100%
   }
+
